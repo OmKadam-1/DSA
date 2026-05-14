@@ -16,5 +16,15 @@
      System.out.println("***");
      System.out.println("**");
      System.out.println("*");
+
+     // Variable in java
+
+     int a = 10;
+     int b = 30;
+     String name = "Harry Potter";
+
+     System.out.print(a);
+     System.out.print(b);
+    System.out.println(name);
     }
 }
